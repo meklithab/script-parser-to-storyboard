@@ -29,3 +29,15 @@ typing-inspection==0.4.1
 typing_extensions==4.15.0
 uritemplate==4.2.0
 urllib3==2.5.0
+
+
+# RAG System Requirements
+langchain==1.0.2
+langchain-huggingface==1.0.0
+langchain-text-splitters==1.0.0
+langchain-community==0.4
+chromadb==1.2.1
+sentence-transformers==5.1.1
+PyPDF2==3.0.1
+torch==2.9.0
+transformers==4.57.1

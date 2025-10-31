@@ -3,3 +3,12 @@ model/
 data/
 .vscode
 output/
+
+# Python cache
+__pycache__/
+# Virtual environment
+venv/
+# PDF scripts
+src/RAG/Anime Scripts/
+# Chroma / vector store
+rag_db/
